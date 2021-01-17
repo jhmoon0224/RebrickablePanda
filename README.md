@@ -1,2 +1,2 @@
 # RebrickablePanda
-simple pandas script to analysis  csv files form Rebrickable
+Simple pandas script to analyze  csv files from Rebrickable
